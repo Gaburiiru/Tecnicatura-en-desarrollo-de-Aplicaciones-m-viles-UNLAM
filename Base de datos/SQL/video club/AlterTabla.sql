@@ -1,0 +1,12 @@
+alter table cliente add column direccion_calle varchar(20) restricciones_campo;
+alter table cliente add column direccion_numero varchar(20) restricciones_campo;
+alter table cliente add column direccion_dsepto varchar(20) restricciones_campo;
+alter table cliente add column direccion_piso varchar(20) restricciones_campo;
+alter table cliente drop column edad;
+alter table cliente add column FechaDeNacimiento varchar(20) restricciones_campo;
+alter table cliente add column id_localidad varchar(20) restricciones_campo;
+alter table cliente add column foreign key (id_localidad) references cliente (localidad) restricciones_campo;
+alter table pelicula add column id_genero varchar(20) restricciones_campo;
+alter table pelicula add column foreign key (id_genero) references pelicula (id_genero) restricciones_campo;
+alter table alquiler add column FechaDeDevolucion varchar(20) restricciones_campo;
+alter table alquiler add column ImportDelAlquiler varchar(20) restricciones_campo;
