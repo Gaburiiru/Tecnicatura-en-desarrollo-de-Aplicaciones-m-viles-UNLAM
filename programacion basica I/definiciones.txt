@@ -1,0 +1,52 @@
+CODIGO FUENTE:Estodo texto legible por un ser humano y redactado en un lenguaje de programación
+determinado.
+Se conoce como “código fuente” (source code) al documento de texto que contiene las instrucciones en 
+el lenguaje correspondiente.
+
+Híbrido: tenemos un único código fuente, un proceso de compilación (además de traducir lo optimiza)
+
+COMPILADOR:Al procesar el código fuente genera:
+• Objeto: ejecutable (binario): optimizado por la plataforma de hardware y sistema operativo
+correspondiente.
+• Bytecodes: es un paso intermedio, que luego será interpretado por una máquina virtual VM.
+Genera un objeto binario:
+	• Muy compacto.
+	• Optimizado.
+	• Específico para el sistema operativo/ procesador objetivo.
+
+INTÉRPRETE:Lee y ejecuta el código fuente instrucción por instrucción.
+Ejecuta funciones paso a paso (script)
+	• Muy flexible, se cambia el código y se corre.
+	• Se interpreta en el momento.
+	•No está optimizado.
+
+JDK (Java Development Kit):El Java Development Kit (JDK) es un entorno de desarrollo de software
+utilizado para desarrollar aplicaciones y applets de Java. Incluye Java Runtime Environment (JRE),
+un intérprete/cargador (Java), un compilador (javac), un archivador (jar),
+un generador de documentación (Javadoc) y otras herramientas necesarias para el desarrollo de Java.
+
+JRE (Java Runtime Environment):JRE significa “Java Runtime Environment” y también puede escribirse
+como “Java RTE“. Java Runtime Environment proporciona los requisitos mínimos para ejecutar
+una aplicación Java; consiste en Java Virtual Machine (JVM), clases principales y archivos auxiliares.
+
+JVM (Java Virtual Machine):Una implementación es un programa de computadora que cumple con los
+requisitos de la especificación JVM.
+Es una instancia en tiempo de ejecución. Siempre que escriba el comando java en el símbolo del
+sistema para ejecutar la clase java, se creará una instancia de JVM.
+
+*imagen ilustrativa*
+
+CLASES:Son plantillas para la creación de objetos. Como tal, la clase forma la base para la programación
+orientada a objetos en Java
+
+---------------------¿Cuál es la diferencia entre un objeto y una clase?---------------------
+Una clase es una estructura de programación definida por el usuario mientras que un objeto es un
+tipo de dato que surge a partir de la clase de programación. 
+Las clases se definen en el proceso de desarrollo mientras que los objetos se crean en tiempo
+de ejecución, es decir cuando el programa está corriendo.
+
+CONSTANTES
+Su valor no cambia una vez definido
+final tipo nombre_constante=valor;
+
+
