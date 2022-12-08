@@ -1,0 +1,19 @@
+automatizar comparación de base de datos.
+comparar las tablas de dos bases de datos.
+
+• PROCEDIMIENTO: Como ayuda les brindamos una idea de uno de los procedimientos que pueden
+ usar para comparar una tabla en dos bases de datos, Uds. Deberán extender el mismo para
+ realizarlo con todas las tablas.
+
+/*
+a. Comparar tabla especifica de 2 bases de datos
+i. Parámetro 1: Nombre Tabla
+ii. Parámetro 2 BD Origen BD1
+iii. Parámetro 3: BD Destino BD2
+iv. Opcional, de acuerdo a necesidad, se puede pasar como parámetro el esquema (SCHEMA) al que pertenece la
+tabla a comparar dentro de la base de datos origen y destino.
+*/
+
+b. Objetivo: Antes que nada, debe validar que los objetos existan, exista la tabla en la BD1,
+ exista la tabla en la BD2, exista la base de datos BD1, exista la base de datos BD2.
+ Luego comparar cada campo, su tipo y valor default de la tabla en Origen con la misma tabla en Destino.
