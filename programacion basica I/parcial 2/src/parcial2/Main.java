@@ -1,4 +1,4 @@
-package Parcial2;
+package parcial2;
 import java.util.Scanner;
 
 public class Main {
