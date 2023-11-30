@@ -1,0 +1,17 @@
+funcionalidades
+1-registrar alumno
+2-registrar profesor
+3-registrar curso
+4-incribir alumno a curso
+5-calificarAlumno
+6-verificar correlativas
+7- insertarMaterias
+8-cada 20 alumnos en un curso agregar profesor
+9-no se puede asignar a un profesor en dos cursos en el mismo horario y dia
+10-verificar cantidad de alumnos con capacidad de aula 
+11-no puedan incribir dos cursos en una misma aula y en el mismo horario y dia 
+12-obtener la cnatidad de alumnos promocionados
+13-cantidad de alumnos a final
+14-cantidad de alumnos desaprobados
+15-listado de aprobados y desaprobados 
+16-no se puede promocionar si tenes adeudada la correlativa

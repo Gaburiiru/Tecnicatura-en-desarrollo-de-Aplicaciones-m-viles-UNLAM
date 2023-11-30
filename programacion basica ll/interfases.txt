@@ -1,0 +1,7 @@
+las interfases son implementadas por las clases
+las mismas pueden contener getters y setters
+
+tengo mi clase anfibio y mi interface acuatico 
+que seria una caracteristica de la clase que podria conpartir con otra clase
+ej: class anfibio "implements Acuatico".
+Interfaz se utiliza para agregar metodos a varias clases, las interfazces no tiene atributos y si tienen son constantes.

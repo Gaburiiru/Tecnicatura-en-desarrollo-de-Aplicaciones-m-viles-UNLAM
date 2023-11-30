@@ -1,0 +1,1 @@
+HashMap me sirve para guardar elementos de clave valor

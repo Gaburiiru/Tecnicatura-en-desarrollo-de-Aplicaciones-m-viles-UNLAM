@@ -1,0 +1,9 @@
+Act 6 y 7 de la unidad 4 como tarea para la semana que viene
+ah y como yapa si no lo dijo el profe el 21/06 es el 2do parcial
+
+hello my name is gabriel ricardes, this are the points
+1-there are tags which uses open and closing
+2-there is a anchor in image
+3-there is not a files linked
+4-there are not attributes in image
+5-there are tag title in header
